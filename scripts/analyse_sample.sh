@@ -1,4 +1,4 @@
-if [ "$#" -eq 1 ]
+qif [ "$#" -eq 1 ]
 then
     sampleid=$1
     echo "Running FastQC..."
